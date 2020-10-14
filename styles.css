@@ -1,0 +1,48 @@
+body {
+background-color: #808000;
+}
+
+p {
+color: floralwhite;
+text-shadow: 1px 1px #1a1a1a;
+font-family: Goudy Old Style; 
+text-align: justify;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 20px;
+margin-left: 20px;
+padding: 5px;
+}
+
+.textborder {
+border-style: solid;
+border-color: floralwhite;
+}
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+img {
+float: center;
+margin-bottom: 2px;
+border-style: ridge;
+border-color: floralwhite;
+}
+
+#bigformatting {
+text-align: center;
+color: #FFF8DC;
+font-family: Bradley Hand;
+font-size: 32;
+}
+
+.titles {
+text-align: center;
+color: #FFF8DC;
+font-family: Papyrus;
+font-size: 28;
+}
+
